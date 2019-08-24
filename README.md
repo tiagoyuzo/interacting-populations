@@ -8,4 +8,4 @@ The methods used are:
 - Finite difference (Crank-Nicolson) method;
 - Predictor-corrector method for successive linearization in time stepping
 
-This code was used for my master dissertation, available online at http://repositorio.unicamp.br/handle/REPOSIP/307267?mode=full 
+This code was used for my master dissertation (in Portuguese), available online at http://repositorio.unicamp.br/handle/REPOSIP/307267?mode=full 
