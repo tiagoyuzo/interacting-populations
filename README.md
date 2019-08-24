@@ -1,7 +1,7 @@
 # interacting-populations
 Matlab code to simulate the effects of toxicity in two competing species, in hypothetical settings.
 
-This code does not receive maintenance, use at own risk.
+This code does not receive maintenance and is available here only for reference, use at own risk.
 
 The methods used are:
 - Finite element method;
